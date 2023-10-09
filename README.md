@@ -1,6 +1,6 @@
 # ABAP-Calculadora
 
-### CALULADORA:
+### CALCULADORA:
 
 ```abap
 REPORT zprog_004_02.
